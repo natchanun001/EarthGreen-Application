@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Image</key>
+	<array>
+		<string>location.png</string>
+		<string>location.png</string>
+		<string>location.png</string>
+	</array>
+	<key>label</key>
+	<array>
+		<string>โครงการมูลนิธิขาเทียม</string>
+		<string>โครงการ CSR I</string>
+		<string>โครงการเรียกคืนอะลูมิเนียม</string>
+	</array>
+	<key>label2</key>
+	<array>
+		<string>สำนักงานกรุงเทพฯ เลขที่ 44 อาคารศรีจุลทรัพย์ ชั้น 16 ถ.พระราม 1 แขวงรองเมือง เขตปทุมวัน กรุงเทพฯ 10330 โทร : 02-215-4369</string>
+		<string>เลขที่ 802/410 หมู่ที่ 12 ต.คูคต อ.ลำลูกกา จ.ปทุมธานี 12130 โทร. 02 990 0331 หรือ 081 735 2316</string>
+		<string>บริษัทบางกอกแคน แมนูแฟ็คเจอริ่ง จำกัดเลขที่ 1,13 ซอยรังสิต นครนายก 46 ต. ประชาธิปัตย์ อ.ธัญบุรี จ.ปทุมธานี 12130 โทร. 02-5330277</string>
+	</array>
+	<key>party_image</key>
+	<array>
+		<string>fakeleg.jpg</string>
+		<string>CSR.jpg</string>
+		<string>ALU.png</string>
+	</array>
+	<key>lb_info</key>
+	<array>
+		<string>มูลนิธิขาเทียมฯ ใคร่ขอชี้แจงข้อเท็จจริงเกี่ยวกับการใช้ประโยชน์จากอลูมิเนียมที่ได้รับบริจาคทั้งในอดีตและปัจจุบันคือ ในอดีต 20 กว่าปีก่อนมูลนิธิขาเทียมฯได้คิดค้นขาเทียมจากวัสดุเหลือใช้ ซึ่งได้แก่ขวดพลาสติกเครื่องดื่มนมเปรี้ยวยาคูลท์และอลูมิเนียมจากฝากระป๋อง โดยขวดพลาสติกจะนำไปละลายในสารละลายทินเนอร์ เพื่อทำเบ้าขาเทียม และอลูมิเนียมจะนำไปหลอมเป็นแท่งและนำมากลึงทำแกนขาเทียม</string>
+		<string>ครอบครัว SSPS ร่วมปันน้ำใจ กับ โครงการ CSR “เปลี่ยนขยะอลูมิเนียม เติมเต็มชีวิตผู้พิการ” ได้ร่วมใจกันบริจาคขยะอลูมิเนียม โดยสมาคมคนพิการทางการเคลื่อนไหวสากลได้เข้ามารับของบริจาคที่ สนญ.เพิ่มสิน เพื่อนำไปแยกชิ้นส่วนขายเป็นสินค้ารีไซเคิลและนำเงินที่ขายได้มาจัดซื้อรถวีลแชร์ และรถสามล้อโยกให้กับผู้พิการ</string>
+		<string>โครงการเรียกคืนวัสดุอะลูมิเนียมเพื่อจัดทำขาทียมพระราชทาน รับบริจาคอะลูมิเนียมทุกชนิดไม่เฉพาะเพียงแต่ฝากระป๋องเท่านั้น โดยสามารถบริจาคอะลูมิเนียมได้ที่กรมควบคุมมลพิษ สำนักงานสิ่งแวดล้อมภาคที่ 1-16 สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อม 76 จังหวัด จุดรับบริจาคที่เป็นเครือข่ายของโครงการ และสามารถบริจาคผ่านทางไปรษณีย์</string>
+	</array>
+	<key>lb_name</key>
+	<array>
+		<string>โครงการมูลนิธิขาเทียม</string>
+		<string>โครงการ CSR </string>
+		<string>โครงการเรียกคืนอะลูมิเนียม</string>
+	</array>
+	<key>facebook</key>
+	<array>
+		<string>https://www.facebook.com/มูลนิธิขาเทียม-Prostheses-Foundation-of-HRH-the-Princess-Mother-1204114659717309/?ref=br_rs</string>
+		<string>https://www.facebook.com/apdi.official/</string>
+		<string>https://www.facebook.com/PCD.go.th/posts/1018551424894911/</string>
+	</array>
+	<key>gps</key>
+	<array>
+		<string>https://www.google.com/maps/search/สำนักงานกรุงเทพฯ+เลขที่+44+อาคารศรีจุลทรัพย์+ชั้น+16+ถ.พระราม+1+แขวงรองเมือง+เขตปทุมวัน/@13.7477581,100.5179215,17z/data=!3m1!4b1</string>
+		<string>https://goo.gl/maps/MaKsthUad7xCPzg38</string>
+		<string>https://www.google.com/maps/place/บริษัท+บางกอกแคน+แมนนูแฟคเจอริ่ง+จำกัด/@13.9890022,100.6427482,17z/data=!3m1!4b1!4m5!3m4!1s0x311d7fd089e4808b:0x19000e1bd981168e!8m2!3d13.9890077!4d100.6448376</string>
+	</array>
+</dict>
+</plist>

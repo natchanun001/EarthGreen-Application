@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Image</key>
+	<array>
+		<string>location.png</string>
+		<string>location.png</string>
+		<string>location.png</string>
+	</array>
+	<key>label</key>
+	<array>
+		<string>โครงการวนพลาสติกกลับบ้าน</string>
+		<string>โครงการ Green Road</string>
+		<string>โครงการต่ออายุหลอด</string>
+	</array>
+	<key>label2</key>
+	<array>
+		<string>โครงการส่งพลาสติกกลับบ้าน บ.ทีพีบีไอ จำกัด มหาชน 42/174 หมู่.5 ต.ไร่ขิง อ.สามพราน จ.สามพราน จ.นครปฐม 73210</string>
+		<string>ผศ.ดร.เวชสวรรค์ หล้ากาศ (โครงการกรีนโรด) 9/9 ม.1 ต.มะเขือแจ้ อ.เมือง จ.ลำพูน 51000</string>
+		<string>มูลนิธิพลังที่ยั่งยืน เลขที่ 555 หมู่ที่ 1 ถ.วิภาวดีรังสิต แขวงจตุจักร เขตจตุจักร กรุงเทพฯ 10900</string>
+	</array>
+	<key>party_image</key>
+	<array>
+		<string>won.png</string>
+		<string>Green_road.jpg</string>
+		<string>bulb.jpeg</string>
+	</array>
+	<key>lb_info</key>
+	<array>
+		<string>    โครงการจากเครือข่ายเพื่อความยั่งยืนของประเทศไทย (Thailand Responsible Business Network – TRBN)ประกอบด้วย    องค์กรธุรกิจจากเอกชนและหน่วยงานจากภาครัฐกว่า 24 องค์กร เพื่อเป็นต้นแบบในการนำขยะพลาสติกกลับไปใช้ใหม่ให้เกิดประโยชน์สูงสุด เปิดรับทั้งพลาสติกยืดและพลาสติกแข็ง เช่น ถุง</string>
+		<string>    โครงการที่อยู่ภายใต้การดูแลของ ผศ. ดร. เวชสวรรค์ หล้ากาศ จากมหาวิทยาลัยราชภัฏเชียงใหม่ เปิดรับขยะพลาสติก PE (Polyethylene) และพลาสติก PP (Polypropylene) ถุงแกงร้อน ถุงนมโรงเรียน ถุงที่ยืดได้ ถุงหูหิ้วพลาสติก และพลาสติก บับเบิ้ลห่อพัสดุ เพื่อนำไปรีไซเคิลเป็นบล็อกปูถนน 1 ตารางเมตร</string>
+		<string>    โครงการจากมูลนิธิพลังที่ยั่งยืนของ ปตท. เปิดรับบริจาคหลอดใช้แล้ว ไปเปลี่ยนเป็น หมอนหลอด ช่วยบรรเทาอาการเกิดแผลกดทับนอกจากนี้ยังมีจุดประสงค์เพื่อพัฒนาแนวทางใหม่เพื่อนำขยะหลอดพลาสติกกลับมาใช้ให้เกิดประโยชน์สูงสุด และเป็นการสร้างความตระหนักในการลด ละ เลิกใช้หลอดพลาสติกที่ส่งผลกระทบต่อสิ่งแวดล้อม</string>
+	</array>
+	<key>lb_name</key>
+	<array>
+		<string>โครงการวนพลาสติกกลับบ้าน</string>
+		<string>โครงการ Green Road</string>
+		<string>โครงการต่ออายุหลอด</string>
+	</array>
+	<key>facebook</key>
+	<array>
+		<string>https://www.facebook.com/wontogether</string>
+		<string>https://www.facebook.com/greenroad.enterprise/</string>
+		<string>https://www.facebook.com/hashtag/ต่ออายุหลอด?source=feed_text&amp;epa=HASHTAG</string>
+	</array>
+	<key>gps</key>
+	<array>
+		<string>https://www.google.com/maps/place/TPBI+Public+Company+Limited/@13.7180572,100.2688347,17z/data=!3m1!4b1!4m5!3m4!1s0x30fc4cc6fcfe7c8b:0xefd8900f65cd5a47!8m2!3d13.718052!4d100.2710287</string>
+		<string>https://www.google.com/maps/search/9%2F9+ม.1+ต.มะเขือแจ้+อ.เมือง+%09%09%09จ.ลำพูน+51000/@13.9753091,100.6358066,17z/data=!3m1!4b</string>
+		<string>https://www.google.com/maps/search/มูลนิธิพลังที่ยั่งยืน+เลขที่+555+หมู่ที่+1+ถ.วิภาวดีรังสิต+แขวงจตุจักร+เขตจตุจักร+%09%09%09กรุงเทพฯ+10900/@13.873239,100.4863386,12z/data=!3m1!4b1</string>
+	</array>
+</dict>
+</plist>

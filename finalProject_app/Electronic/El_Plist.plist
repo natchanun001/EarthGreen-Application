@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Image</key>
+	<array>
+		<string>location.png</string>
+		<string>location.png</string>
+		<string>location.png</string>
+	</array>
+	<key>label</key>
+	<array>
+		<string>โครงการจุฬาฯ รักษ์โลก</string>
+		<string>โครงการ AIS E-Waste</string>
+		<string>มูลนิธิสวนแก้ว</string>
+	</array>
+	<key>label2</key>
+	<array>
+		<string>สำนักงานกรุงเทพฯ เลขที่ 44 อาคารศรีจุลทรัพย์ ชั้น 16 ถ.พระราม 1 แขวงรองเมือง เขตปทุมวัน กรุงเทพฯ 10330 โทร : 02-215-4369</string>
+		<string>ศูนย์การค้า เอ็ม บี เค เซ็นเตอร์ 444 ถนนพญาไท แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330</string>
+		<string>เลขที่ 55/1 หมู่ที่ 1 ตำบลบางเลน อำเภอบางใหญ่ จังหวัดนนทบุรี</string>
+	</array>
+	<key>party_image</key>
+	<array>
+		<string>CHULA.jpg</string>
+		<string>AIS.jpg</string>
+		<string>SK.jpeg</string>
+	</array>
+	<key>lb_info</key>
+	<array>
+		<string>เป็นส่วนหนึ่งของศูนย์ความเป็นเลิศด้านการจัดการสารและของเสียอันตราย เปิดรับบริจาคโทรศัพท์มือถือ แท็บเล็ต โน้ตบุ๊ก อุปกรณ์เสริม อุปกรณ์คอมพิวเตอร์ชิ้นเล็ก และอุปกรณ์อิเล็กทรอนิกส์ชิ้นเล็กที่ไม่ใช้แล้ว เพื่อนำมารีไซเคิลอย่างถูกต้อง ผ่านบริษัทรับกำจัดขยะอิเล็กทรอนิกส์ที่ได้รับการอนุญาตมาโดยเฉพาะ</string>
+		<string>ปัญหาขยะอิเล็กทรอนิกส์ เริ่มได้รับความร่วมมือในการเข้ามามีส่วนร่วมแก้ไข จากผู้ให้บริการที่ดำเนินธุรกิจเกี่ยวเนื่อง กับเรื่องดังกล่าวโดยตรง หนึ่งในนั้นคือ เอไอเอสที่ได้จัดทำโครงการ #ทิ้งEWasteกับAIS เพื่อเป็นตัวกลางในการรับทิ้งขยะ อิเล็กทรอนิกส์</string>
+		<string>โครงการนี้เกิดจากความตั้งใจของ “พระพยอม กัลยาโณ” พระนักพัฒนา ที่ได้จัดสรรพื้นที่ส่วนหนึ่งของวัดให้เป็นสถานที่รวมสินค้ามือสอง ที่ทางวัดได้ทำการเปิดรับสิ่งของเหลือใช้จากผู้บริจาคทั่วประเทศ และนำกลับมาขายราคาถูกให้กับคนที่มีรายได้น้อยเพื่อให้เข้ามาจับจ่ายซื้อสิ่งของต่างๆ ไปใช้ ถือเป็นการช่วยลดค่าใช้จ่ายหรือซื้อสินค้าราคาถูกไปประกอบอาชีพขายของมือสอง</string>
+	</array>
+	<key>lb_name</key>
+	<array>
+		<string>โครงการจุฬาฯ รักษ์โลก</string>
+		<string>โครงการ AIS E-Waste</string>
+		<string>มูลนิธิสวนแก้ว</string>
+	</array>
+	<key>facebook</key>
+	<array>
+		<string>https://www.facebook.com/ChulaLovestheEarth/</string>
+		<string>https://www.facebook.com/AIS/posts/10160378308641554</string>
+		<string>https://www.facebook.com/วัดสวนแก้ว-พระพยอม-กลฺยาโณ-281941261819236/</string>
+	</array>
+	<key>gps</key>
+	<array>
+		<string>https://www.google.com/maps/search/สำนักงานกรุงเทพฯ+เลขที่+44+อาคารศรีจุลทรัพย์+ชั้น+16+ถ.พระราม+1+แขวงรองเมือง+เขตปทุมวัน+กรุงเทพฯ+10330+โทร+:+02-215-4369/@13.7477581,100.5179269,17z/data=!3m1!4b1</string>
+		<string>https://www.google.com/maps/place/MBK+Center/@13.7447982,100.5278357,17z/data=!3m2!4b1!5s0x30e29ed2cbd32999:0xe8c76feab3286b10!4m5!3m4!1s0x30e29f93237736ed:0x405eb31f977656de!8m2!3d13.7447982!4d100.5300244</string>
+		<string>https://www.google.com/maps/place/Wat+Suan+Kaew/@13.8618207,100.4401247,17z/data=!3m1!4b1!4m5!3m4!1s0x30e28fd0cfbb637b:0x32208d230a56edd2!8m2!3d13.8618021!4d100.4422892</string>
+	</array>
+</dict>
+</plist>

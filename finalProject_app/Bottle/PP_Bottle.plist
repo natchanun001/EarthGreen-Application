@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Image</key>
+	<array>
+		<string>location.png</string>
+		<string>location.png</string>
+		<string>location.png</string>
+	</array>
+	<key>label</key>
+	<array>
+		<string>โครงการวนพลาสติกกลับบ้าน</string>
+		<string>โครงการ Precious Plastic </string>
+		<string>โครงการรับรีไซเคิลวัดหนามแดง</string>
+	</array>
+	<key>label2</key>
+	<array>
+		<string>โครงการส่งพลาสติกกลับบ้าน บ.ทีพีบีไอ จำกัด มหาชน 42/174 หมู่.5 ต.ไร่ขิง อ.สามพราน จ.สามพราน จ.นครปฐม 73210</string>
+		<string>@FREC Bangkok ชั้น 1 77 ถนนนครสวรรค์  แขวงวัดโสมนัส เขตป้อมปราบศัตรูพ่าย กรุงเทพมหานคร 10100</string>
+		<string>วัดจากแดง ซอยวัดจากแดง ตำบลทรงคนอง อำเภอพระประแดง จังหวัดสมุทรปราการ 10131    โทร. 02 464 1122</string>
+	</array>
+	<key>party_image</key>
+	<array>
+		<string>won.png</string>
+		<string>Precious Plastic Bangkok.png</string>
+		<string>tampleRed.jpg</string>
+	</array>
+	<key>lb_info</key>
+	<array>
+		<string>    โครงการจากเครือข่ายเพื่อความยั่งยืนของประเทศไทย (Thailand Responsible Business Network – TRBN) ประกอบด้วย    องค์กรธุรกิจจากเอกชนและหน่วยงานจากภาครัฐกว่า 24 องค์กร เพื่อเป็นต้นแบบในการนำขยะพลาสติกกลับไปใช้ใหม่ให้เกิดประโยชน์สูงสุด เปิดรับทั้งพลาสติกยืดและพลาสติกแข็ง เช่น ถุง กล่องใส่อาหาร ฝาขวด ขวดพาสติก รวมถึงฟิล์ม โดยทำความสะอาดแล้วนำไปบริจาคที่จุด Drop Point ของโครงการ เช่น ห้างแล้วพลาสติกเหล่านี้ก็จะถูกส่งไปยังโรงงานรีไซเคิลพลาสติก</string>
+		<string>    โครงการจากประเทศเนเธอรืแลนด์ ที่มีเป้าหมายเพื่อนำขยะพลาสติกกลับมารีไซเคิล และช่วยกระตุ้นให้ทุกคนหันมาสนใจ        เรื่องมลพิษและให้ความสำคัญกับการใช้พลาสติกให้เกิดประโยชน์สูงสุด มากกว่าการนำไปทิ้งให้เศษขยะ ตอนนี้เปิดรับบริจาคพลาสติ HDPE (High-density Polyethylene) เช่น ถุงพลาสติก และพลาสติก PP (Polypropylene)</string>
+		<string>    โครงการของวัดจากแดงรับบริจาคขวดพลาสติกที่ใช้แล้วทิ้ง ไปรีไซเคิลเป็นผ้าบังสุกุล-จีวร โดยขวดน้ำพลาสติก 60 ขวดสามารถเปลี่ยนเป็นจีวรได้ 1 ชุด โดยใช้เทคโนโลยี Upcycling แปรรูปขยะเป็นเส้นใยรีไซเคิล เพื่อนำไปถักทอผสมกับเส้นใย Polyester Rayon เส้นใยฝ้าย และเส้นใย โพลีเอสเตอร์ ซิงค์ แอนตี้แบคทีเรีย (Polyester Zinc Antibacterial) ที่ช่วยป้องกันแบคทีเรีย ลดกลิ่นอับ มีความนุ่ม ระบายอากาศได้ดี สวมใส่สบาย เหมาะกับสภาพอากาศเมืองไทย</string>
+	</array>
+	<key>lb_name</key>
+	<array>
+		<string>โครงการวนพลาสติกกลับบ้าน</string>
+		<string>โครงการPrecious Plastic Bangkok</string>
+		<string>โครงการรับรีไซเคิลวัดจากแดง</string>
+	</array>
+	<key>facebook</key>
+	<array>
+		<string>https://www.facebook.com/wontogether</string>
+		<string>https://www.facebook.com/PreciousPlasticBKK/</string>
+		<string>https://m.facebook.com/บุญ-ผ้าไตรRecycle-1163210950507574/</string>
+	</array>
+	<key>gps</key>
+	<array>
+		<string>https://www.google.com/maps/place/TPBI+Public+Company+Limited/@13.7180572,100.2688347,17z/data=!3m1!4b1!4m5!3m4!1s0x30fc4cc6fcfe7c8b:0xefd8900f65cd5a47!8m2!3d13.718052!4d100.2710287</string>
+		<string>https://www.google.com/maps/search/&apos;@FREC+Bangkok+ชั้น+1+77+ถนนนครสวรรค์++แขวงวัดโสมนัส+เขตป้อมปราบศัตรูพ่าย+กรุงเทพมหานคร+10100&apos;/@13.7570397,100.5066426,17z/data=!3m1!4b1?hl=en</string>
+		<string>https://www.google.com/maps/search/วัดจากแดง+ซอยวัดจากแดง+ตำบลทรงคนอง+อำเภอพระประแดง+จังหวัดสมุทรปราการ+10131++++โทร.+02+464+1122/@13.663504,100.5343185,15z/data=!3m1!4b1?hl=en</string>
+	</array>
+</dict>
+</plist>
